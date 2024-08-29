@@ -5,6 +5,8 @@ VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Exo_ADO_01.ScriptSQL", "Exo_ADO_01.ScriptSQL\Exo_ADO_01.ScriptSQL.sqlproj", "{981792B5-DF19-4787-A256-339157A10D54}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo_ADO_01.ConsoleApp", "Exo_ADO_01.ConsoleApp\Exo_ADO_01.ConsoleApp.csproj", "{8DEC0304-0F91-4E0F-9CCA-1AB50973D07B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,6 +19,10 @@ Global
 		{981792B5-DF19-4787-A256-339157A10D54}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{981792B5-DF19-4787-A256-339157A10D54}.Release|Any CPU.Build.0 = Release|Any CPU
 		{981792B5-DF19-4787-A256-339157A10D54}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{8DEC0304-0F91-4E0F-9CCA-1AB50973D07B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DEC0304-0F91-4E0F-9CCA-1AB50973D07B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DEC0304-0F91-4E0F-9CCA-1AB50973D07B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DEC0304-0F91-4E0F-9CCA-1AB50973D07B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
