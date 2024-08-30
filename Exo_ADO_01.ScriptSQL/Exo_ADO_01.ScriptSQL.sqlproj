@@ -74,6 +74,7 @@
     <Build Include="Views\V_Student.sql" />
     <Build Include="Triggers\TR_Student_SoftDelete.sql" />
     <None Include="Data\ADO_LoadData.sql" />
+    <Build Include="Procedures\Student\AddStudent2.sql" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Exo_ADO_01.ScriptSQL.publish.xml" />
